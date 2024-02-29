@@ -1,0 +1,44 @@
+body{
+  background-color: hwb(271 45% 21%);
+}
+
+.container{
+  background-color: rgb(182, 182, 181);
+  width: 100vw;
+  height: 300px;
+  margin: -10px;
+  text-align: center;
+  border-style: double;
+
+}
+input{
+  width: 250px;
+  height: 35px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: medium;
+}
+button{
+  width: 150px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: rgb(247, 247, 247);
+}
+#informacoes{
+  background-color: rgb(224, 224, 224);
+  width: 400px;
+  margin: 0 auto;
+  text-align:left;
+ 
+  
+  
+  
+  
+
+}
+button:hover {
+  background-color: black;
+}
+p{
+  list-style-type: circle;
+}
